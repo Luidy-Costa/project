@@ -1,1 +1,14 @@
+Visão Geral
+
+O presente projeto tem como objetivo desenvolver um sistema usando um modelo de aprendizado de máquina (Machine Learning) que é capaz de prever a ocorrência de câncer de pulmão com base em características clínicas e comportamentais do paciente auxiliando ao diagnóstico médico projetado para identificar a probabilidade de risco e de câncer de pulmão em pacientes. Diferente de sistemas convencionais, esse sistema  não busca substituir o julgamento clínico, mas atuar como uma "segunda opinião" baseada em dados, agilizando a triagem e destacando automaticamente os fatores de risco críticos (como tabagismo, idade, sintomas específicos) para que o médico possa focar sua atenção nos casos de maior urgência.
+Atualmente, o núcleo de inteligência artificial já opera com uma precisão próxima  superior a 89% e o projeto caminha para se tornar um produto de software (SaaS) para integração em hospitais e clínicas.
+Esse sistema é implementado em Python, utilizando bibliotecas como pandas, scikit-learn, matplotlib e seaborn para análise, pré-processamento, modelagem e avaliação.
+
+
+
+
+Justificativa do projeto 
+
+O câncer de pulmão é uma das principais causas de mortalidade por câncer no mundo. A detecção precoce é crucial para melhorar as taxas de sobrevivência e otimizar os tratamentos. No entanto, o diagnóstico muitas vezes depende de exames complexos e demorados, o que pode retardar a intervenção.
+O projeto visa uma automatização da triagem inicial de pacientes com base em sinais e hábitos de risco. Reduzindo o tempo e o custo associados a uma avaliação preliminar e oferecendo com essa ferramenta serve de apoio a decisões para profissionais de saúde identificando assim casos que necessitam de investigação mais aprofundada e aumentando a conscientização sobre fatores de riscos modificáveis (como por exemplo o tabagismo e o consumo de álcool).
 
