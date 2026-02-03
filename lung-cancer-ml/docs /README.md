@@ -99,4 +99,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 ## 🎁 Expressões de gratidão
 
 * Compartilhe este projeto com quem se interessa por Data Science e Saúde 📢;
-* Um agradecimento especial à equipe pelo esforço conjunto 🫂;
+* Um agradecimento especial à equipe pelo esforço conjunto 🫂; 
